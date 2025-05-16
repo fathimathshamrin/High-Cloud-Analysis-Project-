@@ -1,6 +1,6 @@
 # ✈️ High Cloud Analysis Dashboard
 
-This Power BI project visualizes global airline operations, covering passenger transport trends, carrier performance, and total flight distances. Designed for aviation analytics, it’s tailored for industry applications like Emirates Airlines.
+This Power BI project visualizes global airline operations, covering passenger transport trends, carrier performance, and total flight distances. Designed for aviation analytics.
 
 ## 📊 Dashboard Highlights
 
@@ -25,10 +25,6 @@ To demonstrate actionable airline insights and highlight Power BI proficiency in
 - Data Modeling & Transformation
 - KPI Metrics and Storytelling
 - Domain: Airline Operations / Aviation Analytics
-
-## 📽️ Demo Video
-
-> (Add YouTube or Google Drive link here after recording your walkthrough)
 
 ## 📁 Files Included
 
