@@ -1,44 +1,41 @@
-✈️ **High Cloud Analysis Dashboard**
-This Power BI dashboard project presents a comprehensive analysis of airline operations across global cities and countries, focusing on passenger transport, flight load factors, and distance covered by carriers. It’s designed to uncover insights that can help improve airline performance, optimize routes, and better understand travel patterns.
+# ✈️ High Cloud Analysis Dashboard
 
-🔍 **Key Insights Visualized:**
-**Total Coverage:**
+This Power BI project visualizes global airline operations, covering passenger transport trends, carrier performance, and total flight distances. Designed for aviation analytics, it’s tailored for industry applications like Emirates Airlines.
 
-168 Airlines
+## 📊 Dashboard Highlights
 
-5,862 Cities
+- **168 Airlines**, **5,862 Cities**, **68 Countries**
+- **7 Million km** of Total Distance
+- **3,236 Total Passengers**
+- Dynamic filters for **Month**, **Year**, **Quarter**, and **Weekday vs Weekend**
+- Interactive visuals:
+  - Top Airlines by Route Count
+  - Passengers by Carrier
+  - Load Factor Distribution
+  - Distance by Carrier (Treemap)
+  - Weekday vs Weekend Load (Donut Chart)
 
-68 Countries
+## 🎯 Objective
 
-7M Total Distance Traveled
+To demonstrate actionable airline insights and highlight Power BI proficiency in handling aviation datasets.
 
-3.2K+ Total Passengers
+## 🧠 Skills & Tools Used
 
-**Interactive Filters:**
+- Power BI (DAX, Custom Visuals)
+- Data Modeling & Transformation
+- KPI Metrics and Storytelling
+- Domain: Airline Operations / Aviation Analytics
 
-By Month, Year, and Financial Quarter
+## 📽️ Demo Video
 
-Toggle between Weekday vs Weekend Load
+> (Add YouTube or Google Drive link here after recording your walkthrough)
 
-**Visual Components:**
+## 📁 Files Included
 
-Top Airlines by From–To City Count
+- Power BI Dashboard (.pbix)
+- Presentation Slides (.pptx)
+- README.md
 
-Passenger Volume by Carrier
+---
 
-Load Factor Distribution by Airline
-
-Total Distance Traveled by Carrier (Treemap Visualization)
-
-Donut Chart for Weekday vs Weekend Load Distribution
-
-**📊 Tools Used:**
-Power BI (Data Modeling & Visualization)
-
-DAX for calculated metrics and dynamic visuals
-
-Custom Slicers for interactivity
-
-**💡 Objective:**
-To provide actionable insights for airline analysts, travel operations teams, and stakeholders in the aviation sector through visually intuitive dashboards.
-
+✅ Ideal for business intelligence in the aviation sector.
